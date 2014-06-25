@@ -83,13 +83,13 @@ img {
 /* line 19, ../sass/style.scss */
 h1 {
   font-family: Bitter, Georgia, serif;
-  font-size: 2.25em;
+  font-size: 1.25em;
   padding: 0 1em;
 }
 
 /* line 26, ../sass/style.scss */
 .header {
-  padding: 10em 0 14em;
+  padding: 2em;
 }
 /* line 29, ../sass/style.scss */
 .header h1 {
