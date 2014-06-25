@@ -1,4 +1,5 @@
-jQuery Parallax
+jQuery Paralla
+x
 ===============
 
 jQuery Parallax is a script that simulates the parallax effect as seen on [nikebetterworld.com](http://www.nikebetterworld.com/).
